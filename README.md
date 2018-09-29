@@ -1,0 +1,2 @@
+# TextPal-for-Mac
+TextPal 
